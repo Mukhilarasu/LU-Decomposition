@@ -30,8 +30,8 @@ Step 4:
 
 /*
 Program to find the L and U matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: Mukhilarasu K
+RegisterNumber: 25010728
 */
 ```
 (ii) To find the LU Decomposition of a matrix
@@ -42,8 +42,8 @@ RegisterNumber:
 
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: 
-RegisterNumber: 
+Developed by: Mukhilarasu K
+RegisterNumber: 25010728
 */
 ```
 
